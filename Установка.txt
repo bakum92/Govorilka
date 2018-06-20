@@ -1,0 +1,5 @@
+1.Установи программу Govorilka222.
+2.Установи Acapela-Elan-TTS-SpeechCube-5.1-RUS-Nicolai_MmE255.
+3.Скинуть в Dic (C:\Program Files\Говорилка\Dic) словарь Digalo Russian Nicolai.dic.
+4.Открыть Говорилку и в окне Голос выбрать ELAN TTS Russian (Nicolai 16Khz), 
+в окне Словари выбрать Digalo Russian Nicolai.
